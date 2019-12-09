@@ -1,0 +1,90 @@
+[
+{
+   "root": {
+      "word": [
+         {
+            "question": "Sauerstoff",
+            "answer": "oxygen",
+            "cat": "CHEMIE"
+         },
+         {
+            "question": "Schwefel",
+            "answer": "sulphur",
+            "cat": "CHEMIE"
+         },
+         {
+            "question": "Wasserstoff",
+            "answer": "hydrogen",
+            "cat": "CHEMIE"
+         },
+         {
+            "question": "Stickstoff",
+            "answer": "nitrogen",
+            "cat": "CHEMIE"
+         },
+         {
+            "question": "Gewerbebetrieb",
+            "answer": "business enterprise",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "heikel",
+            "answer": "awkward, tricky",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "herkömmlich",
+            "answer": "conventional",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "Kalauer, r alter Witz",
+            "answer": "old chestnut'",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "Kessel",
+            "answer": "bowl",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "klamm",
+            "answer": "damp, numb",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "lindern",
+            "answer": "alleviate",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "niedlich",
+            "answer": "cute, sweet",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "ohnehin",
+            "answer": "anyways, besides",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "Plädoyer",
+            "answer": "plea, parol, final speech",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "rackern",
+            "answer": "slave away",
+            "cat": "GENEREL"
+         },
+         {
+            "question": "redlich",
+            "answer": "honest",
+            "cat": "GENEREL"
+         }
+      ],
+      "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+   }
+}
+
+]
